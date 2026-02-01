@@ -12,6 +12,7 @@ A conversion-focused "Fake Door" landing page for Lampovak – the first fire-re
 - `style.css` – Premium design and responsiveness
 - `script.js` – Interactive elements
 - `favicon.png` – Website icon
+- `hero-bg.png` – Hero section background image
 
 ## Usage
 Simply open `index.html` in any web browser.

@@ -95,7 +95,7 @@ body {
     content: '';
     position: absolute;
     inset: 0;
-    background-image: url('/Users/petrvacha/.gemini/antigravity/brain/af16ce4e-eb96-4a9c-a37d-b0765e87f1e4/hero_background_v3_1769977645872.png');
+    background-image: url('hero-bg.png');
     background-size: cover;
     background-position: center;
     opacity: 0.4;
